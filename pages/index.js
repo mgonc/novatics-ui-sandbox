@@ -18,7 +18,7 @@ export default () => (
       <main>
         <Typography variant="h1">Novatics-UI sandbox</Typography>
 
-        <Stack mt={1000}>
+        <Stack mt={10}>
           <Buttom variant="contained">Click me</Buttom>
         </Stack>
       </main>
